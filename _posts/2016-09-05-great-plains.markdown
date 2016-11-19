@@ -4,7 +4,7 @@ title: "The Great Plains!"
 date: 2016-09-05
 categories:
   - USA
-description: lsakdfjas fklasdjf saklfj 
+description: It's been a while since I last posted and I'm glad to finally write again. Erika and I finished the Katy Trail in Missouri about two weeks ago and now we are in Pueblo, Colorado.
 image: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
 image-sm: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
 ---
