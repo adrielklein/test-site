@@ -4,7 +4,7 @@ title: "Rockies to The Coast"
 date: 2016-09-07
 categories:
   - USA
-description: 
+description: Do I see this?
 image: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
 image-sm: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
 ---
