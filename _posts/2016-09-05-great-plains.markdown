@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Great Plains"
+title: "The Great Plains!"
 date: 2016-09-05
 categories:
   - USA
