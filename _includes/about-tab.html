@@ -1,0 +1,157 @@
+<div class="tab" style="margin-left: 80px;margin-right: 80px;">
+
+  <p>Hi, my name is Adriel. I’ve been into bikes ever since my dad taught me how to ride one.</p>
+
+  <p><img src="https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15000087_10207840811238435_8990503383906748855_o.jpg" alt="Adriel next to bike" style="width:600px;height:450px;margin-left: auto;margin-right: auto;"/></p>
+
+  <p>Out of all the different bike related activities, bike touring has to be one of my favorites because…</p>
+
+  <ol class="cards">
+    <li class="card">1. It creates a deep connection with the land and it’s inhabitants</li>
+    <li class="card">2. I meet some great people on the road, many of whom inspire me</li>
+    <li class="card">3. It invokes a sense of adventure</li>
+  </ol>
+
+  <p>I’ve done a few tours so far and each have been special and unique. In 2014 I did a cross country charity ride with Bike and Build from RI to CA. Then a couple years later I quit my job to do a self supported ride from NY to OR.</p>
+
+  <p><script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script><script src="https://www.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script><script src="https://www.amcharts.com/lib/3/themes/light.js" type="text/javascript"></script></p>
+
+  <div id="mapdiv" style="width: 100%; height: 450px;"></div>
+
+  <p>The map shows which states I have reached on my bike so far. Some day, I hope to reach them all.</p>
+
+  <script type="text/javascript">
+var map = AmCharts.makeChart("mapdiv",{
+type: "map",
+theme: "light",
+panEventsEnabled : true,
+backgroundColor : "#535364",
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : false
+},
+dataProvider : {
+map : "usaHigh",
+getAreasFromMap : true,
+areas :
+[
+    {
+        "id": "US-CA",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-ME",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-CO",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-CT",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-ID",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-IL",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-IN",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-KS",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-MA",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-MD",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-MO",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-MT",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-NE",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-NH",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-NJ",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-NV",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-NY",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-OH",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-OR",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-PA",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-RI",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-UT",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-VT",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-WA",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-WV",
+        "showAsSelected": true
+    },
+    {
+        "id": "US-WY",
+        "showAsSelected": true
+    }
+]
+},
+areasSettings : {
+autoZoom : false,
+color : "#B4B4B7",
+colorSolid : "#84ADE9",
+selectedColor : "#84ADE9",
+outlineColor : "#666666",
+rollOverColor : "#9EC2F7",
+rollOverOutlineColor : "#000000"
+}
+});
+</script>
+
+  {% include archive-link.html %}
+</div>
