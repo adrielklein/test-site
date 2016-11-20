@@ -10,19 +10,21 @@ image-sm: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_1020783518869787
 ---
 # Colorado
 
-From Pueblo we had a long way to go in both distance and elevation. Although the road looked flat, it was going up pretty steadily for a while.
+After taking the fourth of July off for a rest day in Pueblo, we were ready for tackling the mountains. Although we were in shape from riding through the plains, riding through mountains is a different story. Our first day back was challenging in both distance and elevation.
 
 ![Imgur](http://i.imgur.com/QzxHCc4.jpg)
 
-The next day from Cañon City to Fairplay was one of my favorites.
+Although the road looked flat, it was going up pretty steadily for a while. Eventually we made it to our campground before sunset and made sure to get a good night's sleep.
 
-![Facebook](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14556542_10207506478000313_1106565885061190935_o.jpg)
+![Canon City](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-0/p526x296/15055797_10207855631008920_774753283915495097_n.jpg?oh=80d9449d5a5e84d2cc15cafa78720512&oe=58D075C4)
 
-On our way up we passed through an area called South Park, a relatively flat area surrounded by mountains.
+The next day's ride was one of my favorites. To continue through the Rockies we would pass through South Park, a relatively flat area surrounded by mountains.
+
+![Facebook](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p960x960/15068908_10207855631808940_8419438851920922043_o.jpg)
 
 ![Imgur](http://i.imgur.com/015v1Ct.jpg)
 
-The ride was pretty much all uphill with very little traffic. I didn’t realize just how remote this area would be. In fact, we had to flag down some cars to get more water along the way.
+The ride was all uphill with very little traffic. I didn’t realize just how remote this area would be. In fact, we had to flag down some cars to get more water along the way.
 
 Our destination for the day was Fairplay, a town which is the basis for the TV show “South Park”. I found a cool looking gate with the name “Ike” written on it. It turns out that's the name of one of the characters on the show so I wonder if it's a coincidence or not.
 
@@ -296,7 +298,7 @@ A couple days later, we hit the coast. Although the day was highly overcast we s
 The only problem we faced here was that we didn't have a host, and there were no campgrounds in the area. Our philosophy for this trip was to never pay for a hotel or motel, and we had been successful up to that point. However, we had just reached the Pacific Ocean, we were tired, and it was a bit cold and rainy.
 
 So we decided to bite the bullet. I looked up the nearest hotel and got ready give in. Just as we were walking back towards town, a woman passing by looks at me as if she's expecting me. She approaches me and asks, "Excuse me, are you Roger?". I wasn't exactly sure why I would be Roger, but interested in perhaps finding a host, I replied "No I'm not Roger, but why do you ask?".
-"Well", she replied, "I run a local Airbnb and I was expecting a man named Roger to come by." Sometimes it's just amazing how things just work out. We ended up talking with her some more and explained that although we weren't the man she was expecting, we were looking for accomodation. For a small fee, she let us use her kitchen, shower, living room, and we camped on her lawn directly accross from the ocean. After reading through her guestbook, we realized another cyclist that we had met in Kansas had stayed at her Airbnb as well.
+"Well", she replied, "I run a local Airbnb and I was expecting a man named Roger to come by." Sometimes it's just amazing how things just work out. We ended up talking with her some more and explained that although we weren't the man she was expecting, we were looking for accommodation. For a small fee, she let us use her kitchen, shower, living room, and we camped on her lawn directly across from the ocean. After reading through her guestbook, we realized another cyclist that we had met in Kansas had stayed at her Airbnb as well.
 
 Although the Oregon coast was crowded the coastal scenery was fantastic. The combination of mountains and beaches make it extra special, something foreign to me as an east coast native.
 
@@ -306,4 +308,6 @@ After a few days on the coast, we made it to the final destination, Astoria, Ore
 
 ![Astoria](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15138402_10207835193217988_3799942460373836210_o.jpg)
 
-Astoria is signficant because it's where Lewis and Clark hit the Pacific Ocean on their expediation in the early 1800's. Coincidentally, the start of their journey was St. Charles, MO, a city that Erika and I rode through. Does that mean we are as brave and courageous as the original American explorers? Well, one might argue it was more difficult for them to do it having to hunt for their food and traverse over mountains without roads. However, we completed the journey in a significantly shorter time than they did. It took them almost a year and a half to do it and we completed in a couple of months so I'd say we're about equal!
+Astoria is significant because it's where Lewis and Clark hit the Pacific Ocean on their expediation in the early 1800's. Coincidentally, the start of their journey was St. Charles, MO, a city that Erika and I rode through. Does that mean we are as brave and courageous as the original American explorers? Well, one might argue it was more difficult for them to do it having to hunt for their food and traverse over mountains without roads. However, we completed the journey in a significantly shorter time than they did. It took them almost a year and a half to do it and we completed in a couple of months so I'd say we're about equal!
+
+![Map](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15085740_10207855604808265_6490816267074992835_n.jpg?oh=a72f6e2c51d57c2dae30e9f7ed227f7b&oe=58CC24D1)

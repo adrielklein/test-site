@@ -17,8 +17,8 @@ name: Adriel Klein
 profile_img: https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13501673_10206762965772972_747059453831302189_n.jpg?oh=442c69e181ab0d278e92f4f7e360dc7e&oe=58883CC5
 profile: Bio coming shortly
 social:
-  github: http://github.com/adrielklein
   facebook: https://www.facebook.com/adriel.klein
+  github: http://github.com/adrielklein
 
 # Build settings
 include: ["_categories"]
