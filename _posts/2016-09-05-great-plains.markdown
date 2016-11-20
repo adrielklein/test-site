@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Great Plains!"
+title: "The Great Plains"
 date: 2016-09-05
 categories:
   - USA
 description: It's been a while since I last posted and I'm glad to finally write again. Erika and I finished the Katy Trail in Missouri about two weeks ago and now we are in Pueblo, Colorado. In retrospect, the Katy Trail was a great place to ride. It's a 240 mile long bike path that follows the Missouri river. I would recommend it to anybody interested in bicycle touring, especially to those who haven't had much experience with bicycle touring. The majority of the trail is shaded which makes it ideal for riding during the heat of the day. There are some parts of the trail without overhead cover, but the great views make up for the lack of shade. The best part of the Katy Trail was how accommodating it is towards cyclists. The state park department does an excellent job maintaining it and there's plenty of amenities along the way. For those seeking a laid back peaceful ride through some nice countryside, I can't think of a better option.
-image: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
-image-sm: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
+image: https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/14525220_10207506199633354_1243688342425775195_o.jpg
+image-sm: https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/14525220_10207506199633354_1243688342425775195_o.jpg
 ---
 
 It's been a while since I last posted and I'm glad to finally write again.
@@ -41,7 +41,7 @@ The next day we took off to go to Fort Scott, Kansas. We were excited to be pass
 
 As the day progressed we had a tough time dealing with the rocky gravel roads, however, the host for that night made up for any difficulties we had encountered that day. It turns out that the Warm Showers host was an upscale bed and breakfast. We lucked out and got the premier guesthouse that usually goes for $225 a night. For us it was $0. It's truly amazing that we can receive deals like these by riding our bikes.
 
-It turns out that there was a bike race called Race Across America (RAAM) that was going through Fort Scott during our stay there. These people ride continuously day and night across the country. Many of them only get a couple of hours of sleep per night. A lot of them do it for causes but some of them just do it for the fun of it. 
+It turns out that there was a bike race called Race Across America (RAAM) that was going through Fort Scott during our stay there. These people ride continuously day and night across the country. Many of them only get a couple of hours of sleep per night. A lot of them do it for causes but some of them just do it for the fun of it.
 
 We went to visit the station where the racers could take a break and we met a team of German people. There were about 10 German people on the team. We approached the group of people and started talking to them to learn about their story. There was 1 rider and the rest were the support team. Unfortunately the rider got injured so he was unable to continue, however the support team decided they would finish the ride as a relay race.
 
@@ -64,7 +64,7 @@ It was called Lizard's Lips Grill & Deli. They gave us toy lizards. Erika still 
 
 I first noticed we were on the TransAmerica trail because there was a guest book for cyclists. I was excited to be on the trail because I knew we would meet more cyclists and also navigation would be easier.
 
-That night our destination was Cassoday, KS, a town with a population of just 128. The road there was so peaceful. 
+That night our destination was Cassoday, KS, a town with a population of just 128. The road there was so peaceful.
 
 ![1](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14500408_10207506210113616_1235679378950334704_o.jpg)
 
@@ -89,7 +89,7 @@ The next few days we stayed in some tiny isolated towns in Kansas. Most of the d
 
 ![1](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14480689_10207506229074090_3019008370851711157_o.jpg)
 
-After Dighton we rode to a town called Leoti, KS. We had a good amount a headwind that day and were happy to arrive to a Warm Showers host. It turns out that our host wasn't even home but she told us we are welcome to use her house. I'm always amazed by how generous and trusting some people are. We made ourselves some good food in her kitchen. 
+After Dighton we rode to a town called Leoti, KS. We had a good amount a headwind that day and were happy to arrive to a Warm Showers host. It turns out that our host wasn't even home but she told us we are welcome to use her house. I'm always amazed by how generous and trusting some people are. We made ourselves some good food in her kitchen.
 
 The next day I went over to the library and found an awesome watercolor picture book along with some history and information about Kansas. The information in the book was fascinating and the paintings in were beautiful. The book showed me the love that people have for Kansas. Although some people may find the state boring there's definitely beauty in it's peacefulness and serenity.
 
