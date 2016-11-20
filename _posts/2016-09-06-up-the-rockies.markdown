@@ -8,9 +8,8 @@ description: After taking the fourth of July off for a rest day in Pueblo, we we
 image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
 image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
 ---
-# Colorado
 
-After taking the fourth of July off for a rest day in Pueblo, we were ready for tackling the mountains. Although we were in shape from riding through the plains, riding through mountains is a different story. Our first day back was challenging in both distance and elevation.
+After taking the fourth of July off for a rest day in Pueblo, CO, we were ready for tackling the mountains. Although we were in shape from riding through the plains, riding through mountains is a different story. Our first day back was challenging in both distance and elevation.
 
 ![Imgur](http://i.imgur.com/QzxHCc4.jpg)
 

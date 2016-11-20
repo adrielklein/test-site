@@ -9,8 +9,6 @@ image: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6
 image-sm: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
 ---
 
-# Idaho
-
 As we continued into Idaho, we were continually pleased of the stunning scenery this country has to offer. For hundreds of miles, we following winding roads next to rivers that seems to have carved pathways through the mountains.
 
 ![Lochsa River](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15128880_10207834583602748_4712693267381615734_o.jpg)

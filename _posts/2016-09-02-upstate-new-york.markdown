@@ -9,8 +9,7 @@ image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15168892_10207855768452356
 image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15168892_10207855768452356_1203922894049918460_o.jpg
 ---
 
-# New York
-I started my trip from Albany, NY, the intersection of the Hudson River and Interstate Highway 90. I decided to take a bus over Massachusetts to avoid the mountains in early spring. My reasoning is since this is my first solo self-supported tour I want to make my life a little easier and take the nice flat bike path along the Erie Canal. Plus, it's  early spring so it's still a bit cold outside.
+I started my trip from Albany, NY, the intersection of the Hudson River and Interstate Highway 90. I decided to take a bus over Massachusetts to avoid the mountains in early spring. This being my first self-supported tour, I wanted to make my life a little easier and take the nice flat bike path along the Erie Canal.
 
 I was lucky to get good weather on my first day of the trip. I considered doing a wheel dip in the Hudson, but couldn't really find a good spot for it. I ended up settling for a photo and got on my way.
 
