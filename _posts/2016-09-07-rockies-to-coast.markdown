@@ -6,7 +6,7 @@ categories:
   - USA
 description: From Pueblo we had a long way to go in both distance and elevation. Although the road looked flat, it was going up pretty steadily for a while.
 image: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
-image-sm: https://c8.staticflickr.com/6/5510/29476562703_47d39e5e5e_o.jpg
+image-sm: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
 ---
 # Colorado
 
