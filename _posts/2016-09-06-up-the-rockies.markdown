@@ -19,13 +19,11 @@ Although the road looked flat, it was going up pretty steadily for a while. Even
 
 The next day's ride was one of my favorites. To continue through the Rockies we would pass through South Park, a relatively flat area surrounded by mountains.
 
-![Facebook](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p960x960/15068908_10207855631808940_8419438851920922043_o.jpg)
+![Facebook](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068361_10207858998853114_234562023843600506_o.jpg)
 
-![Imgur](http://i.imgur.com/015v1Ct.jpg)
+The ride was all uphill with very little traffic. I didn’t realize just how remote this area would be. In fact, we had to flag down some cars to get more water along the way. The ride also had a series of false peaks. I kept thinking I was at the top, but then realized that wasn't the case.
 
-The ride was all uphill with very little traffic. I didn’t realize just how remote this area would be. In fact, we had to flag down some cars to get more water along the way.
-
-Our destination for the day was Fairplay, a town which is the basis for the TV show “South Park”. I found a cool looking gate with the name “Ike” written on it. It turns out that's the name of one of the characters on the show so I wonder if it's a coincidence or not.
+Our destination for the day was Fairplay, a town which is the basis for the TV show “South Park”. I found a cool looking gate with the name `IKE` written on it. It turns out that's the name of one of the characters on the show so I wonder if it's a coincidence or not.
 
 ![Imgur](http://i.imgur.com/3AiN8v8.jpg)
 
@@ -53,7 +51,7 @@ On our way out of Breckenridge, Google maps led us on a bike path that was truly
 
 ![Imgur](http://i.imgur.com/2RWwrRv.jpg)
 
-After passing through Keystone, we were up for our biggest challenge yet of our trip: **Loveland pass**. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
+After passing through Keystone, we were up for our biggest challenge yet of our trip: **Loveland Pass**. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
 
 ![Imgur](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p960x960/15042109_10207827434184017_965193472533369500_o.jpg)
 
@@ -73,11 +71,11 @@ The next day we decided to take on Mt. Evans. I had heard about Mt. Evans a coup
 
 The ride itself was a total 56 miles with 6,800ft of elevation gain. Twenty eight miles would be up and the other twenty eight back down. We started riding around sunrise so we’d be able to get the road to ourselves before traffic hit. Starting early was a good idea because we had pretty much the entire road to ourselves for most of the climb.
 
-One of my favorite parts of the ride was seeing the mountain goats. I’m always amazed by new animals I find out in the wild.
+![mt evans](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14500740_10207506857409798_4841345843085701709_o.jpg)
 
 ![Goats](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14481883_10207506467240044_7776201001955381005_o.jpg)
 
-It was chilly at the top, but that didn't take away from the great view.
+Seeing the mountain goats at the top was almost like a reward for the strenuous climb. I'm always fascinated by the new animals I find out in the wild. Unfortunately we couldn't stay up at the top for too long because it was cold, but the view from up there was spectacular.
 
 ![Imgur](http://i.imgur.com/budY8ly.jpg)
 

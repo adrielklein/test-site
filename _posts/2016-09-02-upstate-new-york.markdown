@@ -16,3 +16,15 @@ I was lucky to get good weather on my first day of the trip. I considered doing 
 ![Hudson](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068956_10207855761292177_1995418853032312993_o.jpg)
 
 I had felt pretty free riding on that first day. I had just quit my job, said goodbye, and left. Three great steps towards embarking on a long distance tour! My future was uncertain, but there was some tranquility in riding down a peaceful bike path on a one-way journey.
+
+My first host was a middle-aged couple in Schenectady, New York. They were both very friendly and had some inspiring stories to share about their travels.
+
+The ride continued for a couple of hundred miles along the Erie Canal. Although I can't say the scenery was tremendously stunning, I found the path to be very peaceful and calming. I also enjoyed the historical information along the way, explaining how the canal used to work and how it was critical to the growth of the US.
+
+![Little Falls](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15156865_10207855762852216_6096271727471583751_o.jpg)
+
+![Erie Canal](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15123191_10207855773692487_9070249209029828155_o.jpg)
+
+For the majority of upstate New York, I was able to find hosts on Warm Showers. One night I stayed with a man who runs a local diner. His house was on a big hill that overlooked I-90. At first, I thought a location like this would be undesirable because of the constant sound of the traffic, however I was surprised when the man talked about the benefits of living next to the highway. He talked about some of the interesting vehicles and trucks he's seen out on the road and recalled fond memories of sitting out on the porch with old friends watching traffic go by. It was as if Interstate 90 was his version of the ocean, and watching traffic was like watching waves come crashing down.
+
+Although the bike path continued all the way to Buffalo, I decided to veer northwest to see Niagara falls. I figured it would be a shame to miss, and I had brought my passport just in case. I was about to cross a country border on a bicycle.
