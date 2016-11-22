@@ -17,17 +17,23 @@ Although the road looked flat, it was going up pretty steadily for a while. Even
 
 ![Canon City](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-0/p526x296/15055797_10207855631008920_774753283915495097_n.jpg?oh=80d9449d5a5e84d2cc15cafa78720512&oe=58D075C4)
 
-The next day's ride was one of my favorites. To continue through the Rockies we would pass through South Park, a relatively flat area surrounded by mountains.
+The next day's ride was one of my favorites. To continue through the Rockies we climb up CO-9 for the first part of the day and then ride through a flat basin called South Park.
+
+![Elevation profile](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15192703_10207871303120713_196545724120002582_n.jpg?oh=418da6ce5c76a8fff1bc601bda1da308&oe=58D28ACD)
+
+Admittedly it was a big ride, but I think the beauty and excitement of being surrounded by mountains made the day fly by.
 
 ![Facebook](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068361_10207858998853114_234562023843600506_o.jpg)
 
-The ride was all uphill with very little traffic. I didn’t realize just how remote this area would be. In fact, we had to flag down some cars to get more water along the way. The ride also had a series of false peaks. I kept thinking I was at the top, but then realized that wasn't the case.
+I didn’t realize quite how remote this part of Colorado would be. In fact, we had to flag down some cars to get more water along the way. The ride also had a series of false peaks. I kept thinking I was at the top, but then realized that wasn't the case.
 
-Our destination for the day was Fairplay, a town which is the basis for the TV show “South Park”. I found a cool looking gate with the name `IKE` written on it. It turns out that's the name of one of the characters on the show so I wonder if it's a coincidence or not.
+Our destination for the day was Fairplay, a town which is the basis for the TV show “South Park”. I found a cool looking gate with the name "IKE" written on it.
 
 ![Imgur](http://i.imgur.com/3AiN8v8.jpg)
 
-Along the way up, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who doing the whole thing. His bike looked really rugged, an important quality when riding through the spine of the continent.
+As it turns out, there's a character in the TV show with the same name. I still wonder if it's a coincidence or not. I tried googling it but found no information linking the two.
+
+Along the way up, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who was doing the whole thing. His bike looked really rugged, an important quality when riding through the spine of the continent.
 
 ![Imgur](http://i.imgur.com/WCEUVoc.jpg)
 
@@ -37,29 +43,30 @@ That night we had planned on staying with a Warm Showers host. It’s amazing ho
 
 ![Kittens](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042226_10207819200498180_5669654631266997660_o.jpg)
 
-Although it was summer, it still got a bit chilly camping at 10,000+ feet, however we managed to make it through the night and the next day made it over Hoosier pass to Breckenridge where we stayed with some friendly couchsurfing hosts that were around our age.
+Although it was summer, it still got a bit chilly camping at 10,000+ feet, however we managed to make it through the night and the next day made it over Hoosier pass.
 
 ![Imgur](http://i.imgur.com/fuCxWwb.jpg)
 
-The next morning we were heading to Idaho Springs and had a big climb ahead of us.
 
-![route](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15110528_10207827373822508_497850645514919510_o.jpg)
+We ended up staying at couchsurfing host that night in to Breckenridge. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
 
-On our way out of Breckenridge, Google maps led us on a bike path that was truly stunning.
+![route](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15107204_10207871355482022_2657380610141838567_n.jpg?oh=d12a9521b26b4dc887936105aabcd054&oe=58BA3A59)
+
+On our way out of Breckenridge, Google Maps led us on a bike path that was truly stunning.
 
 ![Imgur](http://i.imgur.com/9UVL8vJ.jpg)
 
 ![Imgur](http://i.imgur.com/2RWwrRv.jpg)
 
-After passing through Keystone, we were up for our biggest challenge yet of our trip: **Loveland Pass**. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
+After passing through Keystone, we mentally prepared to traverse a big mountain pass. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
 
 ![Imgur](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p960x960/15042109_10207827434184017_965193472533369500_o.jpg)
 
-The next 30 miles involved very little pedalling. Also the whole route parallels I-70 so there was very little traffic which made it even better.
+The next 30 miles involved very little pedaling. Also the whole route parallels I-70 so there was very little traffic which made it even better.
 
 ![Imgur](http://i.imgur.com/cNiltpo.jpg)
 
-We settled into a cute couchsurfing house in Idaho Springs and cooked ourselves a nice meal. Our host wasn’t even home but had trusted us with her house anyways. Yet again, we had found another amazingly generous and trusting host!
+We settled into a cute house in Idaho Springs we found on couchsurfing and cooked ourselves a nice meal. Our host wasn’t even home but had trusted us with her house anyways. Yet again, we had found another amazingly generous and trusting host!
 
 Our host ended up returning to her house the next day and we had a great time chatting with her. She told us stories about the other guests she had as well as her journey hiking the Colorado Trail. Thanks to her I have another thing to put on my bucket list.
 
@@ -123,9 +130,9 @@ What’s was cool about riding through Wyoming is to realize just how high we we
 
 The next town we stayed at was Jeffrey City. At 6,335ft and with a population of just 58, this town would be very trustworthy according to the saying.
 
-As a former uranium mining town, Jeffrey City’s population rose to almost 5,000 in the late 1970s. The uranium produced from this town was a valueable resource in the production of nuclear power. However, after a [nuclear power accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) in 1979, nuclear power brought about major safety concerns and strict goverment regulations were imposed on its production. Consequently, the industry fell downhill rapidly, taking down the price of uranium and Jeffrey City along with it.
+As a former uranium mining town, Jeffrey City’s population rose to almost 5,000 in the late 1970s. The uranium produced from this town was a valuable resource in the production of nuclear power. However, after a [nuclear power accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) in 1979, nuclear power brought about major safety concerns and strict government regulations were imposed on its production. Consequently, the industry fell downhill rapidly, taking down the price of uranium and Jeffrey City along with it.
 
-Despite being an absolute ghost town, Jeffrey City was the perfect place for a bike tourist. First of all, it feels like you are travelling through the past when walking around the streets. Also, there did happen to be a couple of shops that were still up an running. One of them happened to be a nice little pottery shop run by a friendly man.
+Despite being an absolute ghost town, Jeffrey City was the perfect place for a bike tourist. First of all, it feels like you are traveling through the past when walking around the streets. Also, there did happen to be a couple of shops that were still up an running. One of them happened to be a nice little pottery shop run by a friendly man.
 
 ![](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14195351_10207819301340701_7016229623481050133_o.jpg)
 
@@ -133,7 +140,7 @@ I found a bunch of cool pottery pieces as well as other random stuff in his shop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_i8DyMLw9No" frameborder="0" allowfullscreen></iframe>
 
-As for accomodation, there was a church that graciously opened up its doors for touring cyclists.
+As for accommodation, there was a church that graciously opened up its doors for touring cyclists.
 
 ![](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025169_10207819300460679_7417555170794927327_o.jpg)
 
@@ -168,7 +175,7 @@ Some of the riding around this area exposed me to some great views of the Tetons
 ![Moose](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14991113_10207819314301025_4987253773706500233_o.jpg)
 
 
-As we headed through Yellowstone, we passed by the famous Old Faithful Geiser and ended up staying in the heart of the park with [Clay](http://www.clayshow.org/), a park ranger we found on Warm Showers. This guy is impressive! In addition to being a park ranger, he is a travelling circus on bicycle and a skilled photographer. I managed to find a great photo of his bike on his website.
+As we headed through Yellowstone, we passed by the famous Old Faithful Geyser and ended up staying in the heart of the park with [Clay](http://www.clayshow.org/), a park ranger we found on Warm Showers. This guy is impressive! In addition to being a park ranger, he is a traveling circus on bicycle and a skilled photographer. I managed to find a great photo of his bike on his website.
 
 ![Bike set up](http://www.clayshow.org/koken/storage/cache/images/000/445/untitled-HDR,medium_large.2x.1478358760.jpg)
 
@@ -180,7 +187,7 @@ As we were setting up our tents in his yard, we spotted some elk walking around 
 
 Although both are a type of deer, the elk is quite different than the typical deer I am familiar with back east, the whitetail. The greatest different is size. While a whitetail buck can weigh up to 300lbs, a male elk (called a bull) typically weighs more than double that.
 
-One host I stayed at was very passionate about elk hunting. He told me about elk bugling, a sound involving squeeling and grunting that the bull makes to intimidate foes or gather its cows (females). As he explained to me, any true elk hunter is intimately familiar with the spectacular vocalization.
+One host I stayed at was very passionate about elk hunting. He told me about elk bugling, a sound involving squealing and grunting that the bull makes to intimidate foes or gather its cows (females). As he explained to me, any true elk hunter is intimately familiar with the spectacular vocalization.
 
 In addition to the man's excitement about elk, I could tell the animal was a special part of Wyoming by some of the amazing displays of antlers.
 
@@ -188,7 +195,7 @@ In addition to the man's excitement about elk, I could tell the animal was a spe
 
 As impressive as the arch was, I couldn't help but think to myself, "Man, they must have had to kill a bunch of elk to make that work of art. How cruel!"
 
-It was only until later when I learned that the bull sheds and regrows his antlers each year. So rather than killing the elk, these artistic piecies of bone are typically [collected by boy scouts](http://www.roadsideamerica.com/story/11685) at the national elk refuge after the winter shed.
+It was only until later when I learned that the bull sheds and regrows his antlers each year. So rather than killing the elk, these artistic pieces of bone are typically [collected by boy scouts](http://www.roadsideamerica.com/story/11685) at the national elk refuge after the winter shed.
 
 Apparently the species is plentiful on both public and private lands so endangerment is not a concern. As a matter of fact, there are estimated to be about a million elk living in the US and strict hunting regulations ensure their abundance. Although I lack both the expertise and equipment to hunt the great beast, I hope to some day photograph a bull in the wild.
 
@@ -206,9 +213,9 @@ After leaving Yellowstone, our next interesting geological place was Quake Lake.
 
 As you might notice, there are dead trees rising up from the lake. You might be asking yourself: Why were the trees growing from the bottom of a lake to begin with?
 
-As it turns out, these trees didn't initially start growing from the lake, but grew as regualr trees on dry land next to a river. However, that soon changed on a quiet summer night in 1959 when [an unexpected earthquake](https://en.wikipedia.org/wiki/1959_Hebgen_Lake_earthquake) shook the earth so hard that 80 million tons of land came crashing down from the nearby mountains into the river.
+As it turns out, these trees didn't initially start growing from the lake, but grew as regular trees on dry land next to a river. However, that soon changed on a quiet summer night in 1959 when [an unexpected earthquake](https://en.wikipedia.org/wiki/1959_Hebgen_Lake_earthquake) shook the earth so hard that 80 million tons of land came crashing down from the nearby mountains into the river.
 
-The mud, rocks, and debris from the landslide dammed the river, resulting in the birth of a new lake called Quake (or Earthquake) Lake. Something tells me the geological anomoly reveals only a hint of just how powerful this geothermal region really is.
+The mud, rocks, and debris from the landslide dammed the river, resulting in the birth of a new lake called Quake (or Earthquake) Lake. Something tells me the geological anomaly reveals only a hint of just how powerful this geothermal region really is.
 
 It's hard to tell exactly the difference from Montana and Wyoming, but Montana seems to be a bit more green.
 
@@ -218,7 +225,7 @@ It's hard to tell exactly the difference from Montana and Wyoming, but Montana s
 
 In general we either stayed in campgrounds or public parks in Montana, however in Ennis, MT there was a distillery that allowed cyclists to camp in their back yard for free. We decided to take up the free offer and met about five other cyclists that were staying at the distillery also.
 
-We met a young couple that were heading the opposite direction as us and I had a great idea of a gift to give to them. Since Erika and I were leaving bear country and they were just about to enter it, I would give them my canister of bear spray that I had bought in Wyoming. Not only would I be helping out some fellow travellers, but I be able to shed off an item that was no longer useful for me.
+We met a young couple that were heading the opposite direction as us and I had a great idea of a gift to give to them. Since Erika and I were leaving bear country and they were just about to enter it, I would give them my canister of bear spray that I had bought in Wyoming. Not only would I be helping out some fellow travelers, but I be able to shed off an item that was no longer useful for me.
 
 Before I handed the couple the bear spray, I figured I would do them an extra favor and teach them how to use it.
 
