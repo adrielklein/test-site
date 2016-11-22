@@ -17,7 +17,7 @@ Although the road looked flat, it was going up pretty steadily. Eventually we ma
 
 ![Canon City](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-0/p526x296/15055797_10207855631008920_774753283915495097_n.jpg?oh=80d9449d5a5e84d2cc15cafa78720512&oe=58D075C4)
 
-The next day's ride was one of my favorites. To continue through the Rockies we climb up CO-9 for the first part of the day and then ride through a flat basin called South Park.
+The next day's ride was one of my favorites. To continue through the Rockies we climbed up CO-9 for the first part of the day and then rode through a flat basin called South Park.
 
 ![Elevation profile](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15192703_10207871303120713_196545724120002582_n.jpg?oh=418da6ce5c76a8fff1bc601bda1da308&oe=58D28ACD)
 
@@ -33,7 +33,7 @@ Our destination for the day was Fairplay, a town which is the basis for the TV s
 
 As it turns out, there's a character in the TV show with the same name. I still wonder if it's a coincidence or not. I tried googling it but found no information linking the two.
 
-Along the way up, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who was doing the whole thing. His bike looked really rugged, an important quality when riding through the spine of the continent.
+Along the way up, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who was doing the whole thing. His bike looked really rugged, an important quality when riding along the spine of the continent.
 
 ![Imgur](http://i.imgur.com/WCEUVoc.jpg)
 
@@ -48,7 +48,7 @@ Although it was summer, it still got a bit chilly camping at 10,000+ feet, howev
 ![Imgur](http://i.imgur.com/fuCxWwb.jpg)
 
 
-We ended up staying at couchsurfing host that night in to Breckenridge. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
+We ended up staying at a couchsurfing host that night in to Breckenridge. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
 
 ![route](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15107204_10207871355482022_2657380610141838567_n.jpg?oh=d12a9521b26b4dc887936105aabcd054&oe=58BA3A59)
 
@@ -82,7 +82,7 @@ The ride itself was a total 56 miles with 6,800ft of elevation gain. Twenty eigh
 
 ![Goats](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14481883_10207506467240044_7776201001955381005_o.jpg)
 
-Seeing the mountain goats at the top was almost like a reward for the strenuous climb. I'm always fascinated by the new animals I find out in the wild. Unfortunately we couldn't stay up at the top for too long because it was cold, but the view from up there was spectacular.
+Seeing the mountain goats at the top was almost like a reward for the strenuous climb. I'm always fascinated by the new animals I find out in the wild. Unfortunately we couldn't stay up at the top for too long because it was cold, but the view from up there was spectacular. Some even say that from that height you can start to see the curvature of the Earth.
 
 ![Imgur](http://i.imgur.com/budY8ly.jpg)
 
@@ -114,11 +114,11 @@ The next day we made our way into Wyoming and had some stunning scenery to ride 
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068956_10207819290740436_6597670242408497090_o.jpg)
 
-Also, Wyoming doesn’t have as many trees so most of the time you can see for miles and miles in any direction.
+Also, this part of Wyoming doesn’t have as many trees so most of the time you can see for miles and miles in any direction.
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15069161_10207819292780487_8919914430768605205_o.jpg)
 
-I noticed that the mountains in Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming. It's like the mountains are more lonely.
+I noticed that the mountains in southern Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming. It's like the mountains are more lonely.
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15000744_10207819295820563_8291222200724655108_o.jpg)
 
@@ -126,7 +126,7 @@ I noticed that the mountains in Wyoming aren’t as grand and tall as they are i
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15016449_10207819299060644_7994383830063000582_o.jpg)
 
-What’s was cool about riding through Wyoming is to realize just how high we were during the whole route. Most of the time we were riding at about 7,000ft but sometimes it’s easy to forget that since we were used to it. Both the high elevation a small population means that there's a bunch of tiny towns up in the mountains. I soon learned that these small towns are important to Wyoming's identity. As a matter of fact, a local man I met told me “In Wyoming, you can’t trust a city whose population is higher than its elevation.”
+What’s was cool about riding through Wyoming is to realize just how high we were during the whole route. Most of the time we were riding at about 7,000ft but sometimes it’s easy to forget that since we were used to it. I learned that people in Wyoming take pride of both the high elevation and sparse population. As local man I met told me “You can’t trust a city whose population is higher than its elevation.”
 
 The next town we stayed at was Jeffrey City. At 6,335ft and with a population of just 58, this town would be very trustworthy according to the saying.
 
