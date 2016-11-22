@@ -126,7 +126,7 @@ I noticed that the mountains in southern Wyoming aren’t as grand and tall as t
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15016449_10207819299060644_7994383830063000582_o.jpg)
 
-What’s was cool about riding through Wyoming is to realize just how high we were during the whole route. Most of the time we were riding at about 7,000ft but sometimes it’s easy to forget that since we were used to it. I learned that people in Wyoming take pride of both the high elevation and sparse population. As local man I met told me “You can’t trust a city whose population is higher than its elevation.”
+What’s was cool about riding through Wyoming is to realize just how high we were during the whole route. Most of the time we were riding at about 7,000ft but sometimes it’s easy to forget that since we were used to it. I learned that people in Wyoming take pride of both the high elevation and sparse population. As local man I met told me, “You can’t trust a city whose population is higher than its elevation.”
 
 The next town we stayed at was Jeffrey City. At 6,335ft and with a population of just 58, this town would be very trustworthy according to the saying.
 
