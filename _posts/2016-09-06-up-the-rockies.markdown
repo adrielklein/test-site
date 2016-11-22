@@ -13,7 +13,7 @@ After taking the fourth of July off for a rest day in Pueblo, CO, we were ready 
 
 ![Imgur](http://i.imgur.com/QzxHCc4.jpg)
 
-Although the road looked flat, it was going up pretty steadily for a while. Eventually we made it to our campground before sunset and made sure to get a good night's sleep.
+Although the road looked flat, it was going up pretty steadily. Eventually we made it to our campground before sunset and made sure to get a good night's sleep.
 
 ![Canon City](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-0/p526x296/15055797_10207855631008920_774753283915495097_n.jpg?oh=80d9449d5a5e84d2cc15cafa78720512&oe=58D075C4)
 
