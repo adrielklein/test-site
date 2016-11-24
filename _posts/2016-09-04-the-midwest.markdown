@@ -73,4 +73,33 @@ Luckily there were some interesting experiences along the way to distract me fro
 
 The theme of these oversized items was "Big Things in a Small Town" which I thought was pretty clever.
 
-Further into Illinois
+Further into Illinois, I found another Warm Showers treasure in a rural farm town. The farmer had offered me the entire guest house and cooked up a delicious meal. If there's anything I have learned about farmers, it's that they know how to eat!
+
+After finishing the amazing meal, the farmer asked me "What's the smallest plane you've ever flown in?".
+
+"Uh, just a regular commercial airline", I replied.
+
+"How'd you like to go up in a two person plane?", he asked.
+
+I was beyond excited about his amazing offer. Apparently the farmer was also a pilot and uses the plane on a regular basis to attend farming conferences and other business related activities.
+
+The sun had already set by the time we were about to take off, but we were about to see it set again from the sky.
+
+![Illinois](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15157026_10207870718866107_622339464898020457_o.jpg)
+
+After trudging through the final day of the brutal stretch I had made it to the Mississipi, and admired the mighty river from a pedestrian/bike only bridge.
+
+![Mississippi River](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15129072_10207870720226141_2237776147851201965_o.jpg)
+
+
+By crossing over the river, I had reached what many people consider the American "West". Shortly after arriving to The Gateway City, I headed over to a bike shop to repair my dysfunctional bike. Two days prior, my gear-shifting cable had snapped and I couldn't shift on my rear cassette. To make matters worse, at zero tension the chain positions itself on the smallest cog of the cassette which puts the bike in the hardest gear. Given my limited resources and dire need for an easier gear, I had built a makeshift solution to get the chain on a larger cog.
+
+![Bike problem](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15167688_10207883458904600_4037945921156439451_o.jpg)
+
+I had created tension by pulling the gear cable with my hand and then wrapped it around the water bottle cage to keep it in position. Although this method had been successful for the past 70 miles or so, I was ready to be able to shift normally again and the guy at the bike shop fixed it for me. The bike mechanic owned the shop and also builds custom frames. I took a picture of his personal bike, a true work of art.
+
+![Mechanic's bike](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15128864_10207883509545866_8689716450604290104_o.jpg)
+
+My hosts in St. Louis were beekeepers (among other things) and let me try their honey. It tasted really different than regular honey, but still good. I think it may have been a bit more of an acquired taste.
+
+St. Louis was hot and the daily high temperature was usually in the upper 90's. Normally I would be concerned about riding in this heat but I was about to ride on the Katy Trail, a mostly-shaded bike path. With the combination of shade and a gentle breeze, the next part of my journey would be some good quality riding.
