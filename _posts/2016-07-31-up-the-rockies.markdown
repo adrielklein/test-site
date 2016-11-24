@@ -4,14 +4,14 @@ title: "Up the Rockies"
 date: 2016-07-31
 categories:
   - USA
-description: 
+description:
 image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
 image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
 ---
 
 After taking a day off for the fourth of July in Pueblo, CO, we were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin]((https://www.crazyguyonabike.com/doc/?doc_id=17523)), a 56 year old high school tennis coach and teacher.
 
-Although I was inspired by Kevin's ambition and physical fitness given his age, I was more inspired by Kevin's cause. In addition knocking off a bucket list item, he was raising money to "Beat Cancer" in honor of some courageous people in his life. He surpassed his fundraising goal of $10,000 and ended up raising over $14,000. What an accomplishment!
+Although I was inspired by Kevin's ambition and physical fitness given his age, I was more inspired by Kevin's cause. In addition knocking off a bucket list item, he was raising money to beat cancer. He surpassed his fundraising goal of $10,000 and ended up raising over $14,000. What an accomplishment!
 
 We wished Kevin good luck for the rest of his trip and embarked on our route through America's greatest mountain range, **The Rockies**. Although we were in shape from riding through the plains, riding through mountains is a different ball game. Our first day back was challenging in both distance and elevation.
 
@@ -33,7 +33,7 @@ Admittedly it was a big ride, but I think the beauty and excitement of being sur
 
 I didn’t realize quite how remote this part of Colorado would be. In fact, we had to flag down some cars to get more water along the way. The ride also had a series of false peaks. I kept thinking I was at the top, but then realized that wasn't the case.
 
-During the ride, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who was doing the whole thing. His bike looked really rugged, an important quality when riding along the spine of the continent.
+During the ride, we crossed paths with The Great Divide Mountain Biking Route, a mountain biking trail along the continental divide spanning from Canada to Mexico. We met a guy who was doing the whole thing and I thought his bike setup was really cool.
 
 ![Imgur](http://i.imgur.com/WCEUVoc.jpg)
 
@@ -43,7 +43,7 @@ Our destination for the day was Fairplay, a town which is the basis for the TV s
 
 As it turns out, there's a character in the TV show with the same name. I still wonder if it's a coincidence or not. I tried googling it but found no information linking the two.
 
-By the time we got to Fairplay we were ravenously hungry and headed over to Subway for dinner. I asked for an 18" sub which unfortunately didn't exist. However, I combined a foot long with a six inch so I still got my way with it.
+By the time we got to Fairplay we were tremendously hungry and headed over to Subway for dinner. I asked for an 18" sub which unfortunately didn't exist. However, I ordered both a foot long and a six inch so I still got my way with it.
 
 That night we had planned on staying with a Warm Showers host. It’s amazing how kind and trusting people are because this man wasn’t even home but told us we could feel free to use his house and camp in his yard. Better yet, our absent host had a bunch of kittens that greeted us as we arrived.
 
