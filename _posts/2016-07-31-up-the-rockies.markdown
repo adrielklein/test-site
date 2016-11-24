@@ -92,7 +92,7 @@ Seeing the mountain goats at the top was almost like a reward for the strenuous 
 
 ![Imgur](http://i.imgur.com/budY8ly.jpg)
 
-After Mount Evans we started heading North towards Wyoming and made our way over Berthoud Pass, another big climb.
+After Mount Evans we started heading north towards Wyoming and made our way over Berthoud Pass, another big climb.
 
 ![Facbook](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14500757_10207506691685655_2763764062094189559_o.jpg)
 
@@ -108,7 +108,7 @@ The next day we headed towards Walden Colorado. Yet again we had a mountain pass
 
 ![Facebook](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14559974_10207506687605553_5726420898160739675_o.jpg)
 
-When we got to town, we met a supported cross country bike touring group called the Fuller Center. They invited us to the church where they we staying and we shared some stories about our trips. They were a great group of people.
+When we got to town, we met a supported cross country bike touring group called the Fuller Center. They invited us to the church where they were staying and we shared some stories about our trips. They were a great group of people.
 
 ---
 
@@ -124,7 +124,7 @@ Also, this part of Wyoming doesn’t have as many trees so most of the time you 
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15069161_10207819292780487_8919914430768605205_o.jpg)
 
-I noticed that the mountains in southern Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming. It's like the mountains are more lonely.
+I noticed that the mountains in southern Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more modest and dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming that's hard to describe.
 
 ![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025529_10207819297020593_1022000855785025195_o.jpg)
 
@@ -207,7 +207,7 @@ Apparently the species is plentiful on both public and private lands so endanger
 
 # Montana
 
-Leaving Wyoming was bittersweet. On the one hand we were leaving an incredible beautiful state, but on the other hand we were about to enter another state with a similar reputation.
+Leaving Wyoming was bittersweet. On the one hand we were leaving an incredibly beautiful state, but on the other hand we were about to enter another state with a similar reputation.
 
 ![Montana state sign](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-0/p600x600/15069010_10207832645874306_3120064244606464471_o.jpg)
 
@@ -215,7 +215,7 @@ The next interesting geological place that we stumbled upon was Quake Lake.
 
 ![Quake lake](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/q82/p960x960/15110367_10207827561947211_8977523391749054029_o.jpg)
 
-As you might notice, there are dead trees rising up from the lake. You might be asking yourself: Why were the trees growing from the bottom of a lake to begin with?
+As evident by the photo, there are dead trees rising up from the lake. The question is: Why were the trees were growing from the bottom of a lake to begin with?
 
 As it turns out, these trees didn't initially start growing from the lake, but grew as regular trees on dry land next to a river. However, that soon changed on a quiet summer night in 1959 when [an unexpected earthquake](https://en.wikipedia.org/wiki/1959_Hebgen_Lake_earthquake) shook the earth so hard that 80 million tons of land came crashing down from the nearby mountains into the river.
 
@@ -227,18 +227,18 @@ It's hard to tell exactly the difference from Montana and Wyoming, but Montana s
 
 ![Montana](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042197_10207833635339042_3630327503833182793_o.jpg)
 
-In general we either stayed in campgrounds or public parks in Montana, however in Ennis, MT there was a distillery that allowed cyclists to camp in their back yard for free. We decided to take up the free offer and met about five other cyclists that were staying at the distillery also.
+In general we either stayed in campgrounds or public parks in Montana, however in Ennis, MT there was a distillery that allowed cyclists to camp in their back yard for free. We decided to take up the free offer and met about five other cyclists that were staying there also.
 
 We met a young couple that were heading the opposite direction as us and I had a great idea of a gift to give to them. Since Erika and I were leaving bear country and they were just about to enter it, I would give them my canister of bear spray that I had bought in Wyoming. Not only would I be helping out some fellow travelers, but I be able to shed off an item that was no longer useful for me.
 
 Before I handed the couple the bear spray, I figured I would do them an extra favor and teach them how to use it.
 
-I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to cough profusely and some of us even began tearing up.
+I took off the safety, pointed the canister towards the ground, and pressed down the trigger. Shortly after releasing the spray, I realized I hadn't quite pointed it close enough to the ground. As the orange mist spread through the air, the four of us began to coughing and wheezing.  Some of us even began tearing up.
 
 After about ten minutes of discomfort, we were all fine and I apologized profusely. I learned exactly how **not** to give a bear spray demonstration.
 
-Our journey continued to Missoula where we were planning on taking a day off. Shortly after arriving to Missoula, we got word that Erika's grandmother's friend's cousin and her husband lived in town and had offered to host us. They were the kindest old couple and had some great stories to share about their adventures and hobbies. I thought their collection of animal skulls was really cool.
+Our journey continued to Missoula where we were planning on taking a day off. Shortly after arriving to Missoula, we got word that Erika's grandmother's friend's cousin and her husband lived in town and had offered to host us. They were the kindest elderly couple and had some great stories to share about their adventures and hobbies. I thought their collection of animal skulls was really cool.
 
 ![Animal skulls](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-0/p526x296/15003274_10207833640219164_8555496168346064163_o.jpg)
 
-Our final stretch of the trip was about to begin. We would cross over the continental divide one last time at Lolo pass in Idaho and make our way down to the ocean.
+Our final stretch of the trip was about to begin. We would cross over the continental divide one last time at Lolo Pass in Idaho and make our way down to the ocean.
