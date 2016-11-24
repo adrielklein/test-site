@@ -9,7 +9,7 @@ image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940
 image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
 ---
 
-After taking a day off for the fourth of July in Pueblo, CO, we were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin]((https://www.crazyguyonabike.com/doc/?doc_id=17523)), a 56 year old high school tennis coach and teacher.
+After taking a day off for the fourth of July in Pueblo, CO, Erika and I were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin]((https://www.crazyguyonabike.com/doc/?doc_id=17523)), a 56 year old high school tennis coach and teacher.
 
 Although I was inspired by Kevin's ambition and physical fitness given his age, I was more inspired by Kevin's cause. In addition knocking off a bucket list item, he was raising money to beat cancer. He surpassed his fundraising goal of $10,000 and ended up raising over $14,000. What an accomplishment!
 
