@@ -54,7 +54,7 @@ Although it was summer, it still got a bit chilly camping at 10,000+ feet. Despi
 ![Imgur](http://i.imgur.com/fuCxWwb.jpg)
 
 
-We ended up staying at a couchsurfing host that night in Breckenridge, the picturesque ski resort town. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
+We ended up staying at a couchsurfing host that night in Breckenridge, the picturesque ski resort town. Our hosts were very friendly and we got to meet another couchsurfer who was also staying there as well. The next morning we were heading to Idaho Springs and had another big climb ahead of us.
 
 ![route](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15107204_10207871355482022_2657380610141838567_n.jpg?oh=d12a9521b26b4dc887936105aabcd054&oe=58BA3A59)
 
