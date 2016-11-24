@@ -5,11 +5,9 @@ date: 2016-09-05
 categories:
   - USA
 description: It's been a while since I last posted and I'm glad to finally write again. Erika and I finished the Katy Trail in Missouri about two weeks ago and now we are in Pueblo, Colorado. In retrospect, the Katy Trail was a great place to ride. It's a 240 mile long bike path that follows the Missouri river. I would recommend it to anybody interested in bicycle touring, especially to those who haven't had much experience with bicycle touring. The majority of the trail is shaded which makes it ideal for riding during the heat of the day. There are some parts of the trail without overhead cover, but the great views make up for the lack of shade. The best part of the Katy Trail was how accommodating it is towards cyclists. The state park department does an excellent job maintaining it and there's plenty of amenities along the way. For those seeking a laid back peaceful ride through some nice countryside, I can't think of a better option.
-image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15122922_10207870662904708_4698412947625353082_o.jpg
-image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15122922_10207870662904708_4698412947625353082_o.jpg
+image: https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15137635_10207881472454940_9045809448620090421_o.jpg
+image-sm: https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15137635_10207881472454940_9045809448620090421_o.jpg
 ---
-
-It's been a while since I last posted and I'm glad to finally write again.
 
 Erika and I finished the Katy Trail in Missouri about two weeks ago and now we are in Pueblo, Colorado.
 
@@ -37,30 +35,25 @@ Erika and I ended up helping him move his treadmill out of the basement to give 
 
 The pastor and his wife were kind enough to feed us. They ordered a pizza and subs for us from a place called Casey's. It was delicious and we had a great time talking with them. Also, that night happened to be Game 7 of the NBA finals so I was really happy that they had a TV and let us watch it. I would have been bummed if we ended up missing the game and I was happy the Cavs won.
 
-The next day we took off to go to Fort Scott, Kansas. We were excited to be passing a state border. I was faced with a dilemma that day about the route we would ride. We could ride on busy paved roads with minimal shoulders or we could ride on gravel roads with almost no traffic. I ended up choosing the second option for us.
-
-As the day progressed we had a tough time dealing with the rocky gravel roads, however, the host for that night made up for any difficulties we had encountered that day. It turns out that the Warm Showers host was an upscale bed and breakfast. We lucked out and got the premier guesthouse that usually goes for $225 a night. For us it was $0. It's truly amazing that we can receive deals like these by riding our bikes.
+The next day we took off to go to Fort Scott, Kansas. As the day progressed we had a tough time dealing with the rocky gravel roads, however, the host for that night made up for any difficulties we had encountered that day. It turns out that the Warm Showers host was an upscale bed and breakfast. We lucked out and got the premier guesthouse that usually goes for $225 a night. For us it was $0. It's truly amazing that we can receive deals like these by riding our bikes.
 
 It turns out that there was a bike race called Race Across America (RAAM) that was going through Fort Scott during our stay there. These people ride continuously day and night across the country. Many of them only get a couple of hours of sleep per night. A lot of them do it for causes but some of them just do it for the fun of it.
 
 We went to visit the station where the racers could take a break and we met a team of German people. There were about 10 German people on the team. We approached the group of people and started talking to them to learn about their story. There was 1 rider and the rest were the support team. Unfortunately the rider got injured so he was unable to continue, however the support team decided they would finish the ride as a relay race.
 
-We started chatting with one of the friendly Germans. Turns out this guy has biked all over the world. He's biked through multiple continents including extensive riding throughout Australia. I could tell he wasn't kidding because [his Warm Showers account](https://www.warmshowers.org/users/raggamuffin1987) has literally hundreds of feedback posts.
+We started chatting with one of the friendly Germans. Turns out this guy has biked all over the world. He's biked through multiple continents including extensive riding throughout Australia. We linked up on Warm Showers and I enjoyed reading [his blog](http://www.aloha-cycling-blog.com/) later on. I thought that I had ridden through some pretty remote places in the US, but that's nothing compared to some of the places this guy has visited in Aussie.
 
 Fort Scott was a great visit especially because of the amazing accommodation, but we were ready to continue onwards. The ride out of Fort Scott was amazing. We found a nicely paved road with rolling hills that paralleled a busier road so there was very little traffic. It got a bit windy, but the wind was mostly in our favor as you can see by the way the leaves are facing on the tree.
 
 ![1](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/q83/p960x960/14525220_10207506199633354_1243688342425775195_o.jpg)
 
-
-After the perfect cycling road ended we were faced with the choice to continue riding on US-54 or take the gravel backroads. Again, I decided to bring us through the backroads and this time it was really rough especially because I think it was nearly 100°F.
-
-We finally arrived at Yates Center, KS and used their swimming pool to cool off and shower. Unfortunately their swimming pool was hot so jumping in wasn't as refreshing as we hoped. Afterwards we ended up going to Subway to get lunch.
+After riding through some tough gravel in the heat, we finally arrived at Yates Center, KS and used their swimming pool to cool off and shower. Unfortunately their swimming pool was hot so jumping in wasn't as refreshing as we hoped.
 
 That night we didn't know where we were going to stay but we were hoping for somebody to volunteer to host us because it would have been miserable camping in that heat. Funny how things work out because just as I was changing a flat tire on the side of a road, a woman walks up to us and offers me help with the tire. I kindly pass up her offer but we strike up a conversation. One thing leads to the next and she invites us to sleep in her air conditioned house and feeds us dinner. Her name was Kate and she even gave us some delicious peanut butter cookies for the next day. What a kind woman.
 
-The next day we reached our first point on the TransAmerica trail.
+The next day we reached our first point on the Trans America trail.
 
-It was called Lizard's Lips Grill & Deli. They gave us toy lizards. Erika still has hers on her bike but I think I lost mine a few minutes after I received it. I wasn't sad too have lost the toy lizard because I think it would just add clutter to my life. However, I appreciated the kind gift from the people in the store.
+It was called Lizard's Lips Grill & Deli. They gave us toy lizards. Erika still has hers on her bike but I think I lost mine a few minutes after I received it. I wasn't too sad have lost the toy lizard because I think it would just add clutter to my life. However, I appreciated the kind gift from the people in the store.
 
 I first noticed we were on the TransAmerica trail because there was a guest book for cyclists. I was excited to be on the trail because I knew we would meet more cyclists and also navigation would be easier.
 
@@ -89,9 +82,9 @@ The next few days we stayed in some tiny isolated towns in Kansas. Most of the d
 
 ![1](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14480689_10207506229074090_3019008370851711157_o.jpg)
 
-After Dighton we rode to a town called Leoti, KS. We had a good amount a headwind that day and were happy to arrive to a Warm Showers host. It turns out that our host wasn't even home but she told us we are welcome to use her house. I'm always amazed by how generous and trusting some people are. We made ourselves some good food in her kitchen.
+After Dighton, KS we rode to a town called Leoti, KS. We had a good amount a headwind that day and were happy to arrive to a Warm Showers host. It turns out that our host wasn't even home but she told us we are welcome to use her house. I'm always amazed by how generous and trusting some people are. We made ourselves some good food in her kitchen.
 
-The next day I went over to the library and found an awesome watercolor picture book along with some history and information about Kansas. The information in the book was fascinating and the paintings in were beautiful. The book showed me the love that people have for Kansas. Although some people may find the state boring there's definitely beauty in it's peacefulness and serenity.
+The next day I went over to the library and found an awesome watercolor picture book along with some history and information about Kansas. The information in the book was fascinating and the paintings in it were beautiful. The book showed me the love that people have for Kansas. Although some people may find the state boring there's definitely beauty in its peacefulness and serenity.
 
 The next day we made it to Colorado. Almost immediately we noticed the scenery starting to change from farms to shrubby things. I talked to someone about it later and they told me it's because of farming legislature.
 

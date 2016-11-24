@@ -62,7 +62,7 @@ On our way out of Breckenridge, Google Maps led us on a bike path that was truly
 
 ![Imgur](http://i.imgur.com/9UVL8vJ.jpg)
 
-![Imgur](http://i.imgur.com/2RWwrRv.jpg)
+![Bike path](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15137460_10207881455534517_8057666182208376858_o.jpg)
 
 After passing through Keystone, we mentally prepared to traverse our next pass. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
 
@@ -100,7 +100,7 @@ Our destination for the day was Tabernash. We had only planned on staying one da
 
 Our host was also an avid Tour de France fan so I watched some of the races with him.
 
-In the morning we got to catch a fresh glimpse of the beautiful area we had the pleasure of staying at.
+In the morning we got to catch a fresh glimpse of the beautiful area we had the pleasure of staying at. Showcasing her sense of humor, Erika insisted that her family had come to retrieve her once after we saw the hot air balloon.
 
 ![Tabernash](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14542432_10207506687525551_8919220153362848220_o.jpg)
 
@@ -170,11 +170,11 @@ Grand Teton NP came first and we found a great campground just next to Jackson L
 
 ![Jackson lake](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025225_10207819819833663_1976891377703458165_o.jpg)
 
-Some of the riding around this area exposed me to some great views of the Tetons. Formed roughly 6 to 9 million years ago, these mountains are the youngest in the Rockies, and their jagged peaks reflect it.
+Some of the riding around this area exposed me to some great views of the Tetons. Formed roughly 6 to 9 million years ago, these mountains are the youngest in the Rockies and their jagged peaks reflect it.
 
 ![Tetons](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025619_10207819823233748_3457954152002252775_o.jpg)
 
-The area is also abundant in wildlife including big game animals like the moose which impeded me during my ride on the bike path.
+The area is also abundant in wildlife including big game animals like the moose.
 
 ![Moose](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14991113_10207819314301025_4987253773706500233_o.jpg)
 
@@ -197,19 +197,21 @@ In addition to the man's excitement about elk, I could tell the animal was a spe
 
 ![Antlers](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p720x720/15025098_10207840932121457_1925618590242597639_o.jpg)
 
-As impressive as the arch was, I couldn't help but think to myself, "Man, they must have had to kill a bunch of elk to make that work of art. How cruel!"
+As impressive as the arch was, I couldn't help but think to myself, "Man, they must have had to kill a bunch of elk to make that. How cruel!"
 
 It was only until later when I learned that the bull sheds and regrows his antlers each year. So rather than killing the elk, these artistic pieces of bone are typically [collected by boy scouts](http://www.roadsideamerica.com/story/11685) at the national elk refuge after the winter shed.
 
-Apparently the species is plentiful on both public and private lands so endangerment is not a concern. As a matter of fact, there are estimated to be about a million elk living in the US and strict hunting regulations ensure their abundance. Although I lack both the expertise and equipment to hunt the great beast, I hope to some day photograph a bull in the wild. Some others species on my list to photograph are wild horses, pronghorns, and mountain lions. I've been told that mountain lions will be especially hard to find since they are stealthy hunters by nature. As one man told me, "You've probably never seen a mountain lion in the wild, but there's a good chance they've seen you."
+Apparently the species is plentiful on both public and private lands so endangerment is not a concern. As a matter of fact, there are estimated to be about a million elk living in the US and strict hunting regulations ensure their abundance. Although I lack both the expertise and equipment to hunt the great beast, I hope to some day photograph a bull in the wild. Some others species on my list to photograph are wild horses, pronghorns, and mountain lions. I've been told that mountain lions will be especially hard to find since they are stealthy hunters by nature. As one man told me, "You've probably never seen a mountain lion, but there's a good chance they've seen you."
 
 ---
 
 # Montana
 
+Leaving Wyoming was bittersweet. On the one hand we were leaving an incredible beautiful state, but on the other hand we were about to enter another state with a similar reputation.
+
 ![Montana state sign](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-0/p600x600/15069010_10207832645874306_3120064244606464471_o.jpg)
 
-After leaving Yellowstone, our next interesting geological place was Quake Lake.
+The next interesting geological place that we stumbled upon was Quake Lake.
 
 ![Quake lake](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/q82/p960x960/15110367_10207827561947211_8977523391749054029_o.jpg)
 

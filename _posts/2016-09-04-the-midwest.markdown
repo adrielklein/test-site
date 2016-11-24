@@ -9,15 +9,17 @@ image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15194472_10207870716106038
 image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15194472_10207870716106038_8011315001822673054_o.jpg
 ---
 
-In order to ensure I had a place to stay each night, I had planned my route for the next 650 miles from Sandusky, OH to St. Louis, MO. The route would take me 11 days (~60mi/day), 9 of which I had a Warm Showers host and the other 2 would be at campgrounds. Although I did a great job with logistic planning, I failed to schedule a rest day in there and I would later regret this.
+In order to ensure I had a place to stay each night, I had planned my route for the next 650 miles from Sandusky, OH to St. Louis, MO.
 
-The one thing I like about riding in the Eastern part of the united states is the sheer number of roads. Among all the selection and with tools like Google Maps, I was able to plan out some pretty sweet rides on roads that nobody seemed to know about.
+The route would take me 11 days (~60mi/day), 9 of which I had a Warm Showers host and the other 2 would be at campgrounds. Although I did a great job with logistic planning, I failed to schedule a rest day and I would later regret this.
+
+The one thing I like about riding in the eastern part of the United States is the sheer number of roads. With all those quiet country roads and tools like Google Maps, I was able to plan out some pretty sweet rides on roads that nobody seemed to know about.
 
 ![Ohio](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15122991_10207870696185540_3670987064297073083_o.jpg)
 
 ![Ohio](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15111001_10207870696585550_6450823244582613659_o.jpg)
 
-On my way to Marion, OH on one of the rural backgrounds, I ended up finding a house with a medieval knight in full armor standing outside the front door. Sometimes you see the craziest things in the middle of nowhere.
+On my way to Marion, OH on one of the rural backgrounds, I ended up finding a house with a medieval knight in full armor standing outside the front door. Sometimes you see the most bizarre things in the middle of nowhere.
 
 ![Knight](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15168848_10207870696865557_7954188542719707341_o.jpg)
 
@@ -49,7 +51,7 @@ Of my entire trip, Indiana was the state I spent the least amount of time in. I 
 
 ![Camping](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15122861_10207870987752829_4319797351992882206_o.jpg)
 
-It was in Indiana when the first signs of fatigue begun. When it started hitting me, I was a bit surprised. I knew I was in good shape but for some reason my muscles were getting achy and the riding started feeling like a chore instead of a pleasure. Although a rest day would have been nice, I already had my hosts all planned. If I took a rest day, I would have to reschedule with all my hosts and I figured the least I could do was be accurate with these generous people about my date of arrival.
+It was in Indiana when the first signs of fatigue had begun. When it started hitting me, I was a bit surprised. I knew I was in good shape but for some reason my muscles were getting achy and the riding started feeling like a chore instead of a pleasure. Although a rest day would have been nice, I already had my hosts all planned. If I took a rest day, I would have to reschedule with all my hosts and I figured the least I could for my hosts was to be accurate about my date of arrival.
 
 The fatigue definitely started getting bad as I hit Bloomington because of its relentless hills.
 
@@ -64,3 +66,11 @@ The next town I rode to was Farmersburg, where I got the pleasure of staying wit
 # Illinois
 
 As I entered the Land of Lincoln, my fatigue was starting to take over. I remember every morning I woke up my body would ache and I would wish to just go back to bed. My main goal was to make it to St. Louis, where I would spend a rest day before my next leg. I had found a Warm Showers host in St. Louis, so I just needed to get there.
+
+Luckily there were some interesting experiences along the way to distract me from my soreness. One town in Illinois held a bunch of world records for "Largest ____ in the world".
+
+[Largest Pencil](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15167487_10207870717226066_6982013053179396876_o.jpg)
+
+The theme of these oversized items was "Big Things in a Small Town" which I thought was pretty clever.
+
+Further into Illinois
