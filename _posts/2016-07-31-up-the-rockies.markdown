@@ -45,7 +45,7 @@ As it turns out, there's a character in the TV show with the same name. I still 
 
 By the time we got to Fairplay we were tremendously hungry and headed over to Subway for dinner. I asked for an 18" sub which unfortunately didn't exist. However, I ordered both a foot long and a six inch so I still got my way with it.
 
-That night we had planned on staying with a Warm Showers host. It’s amazing how kind and trusting people are because this man wasn’t even home but told us we could feel free to use his house and camp in his yard. Better yet, our absent host had a bunch of kittens that greeted us as we arrived.
+That night we had planned on staying with a Warm Showers host. It’s amazing how kind and trusting people are because this man wasn’t even home but told us we could feel free to use his house and camp in his yard. Better yet, our absent host had a bunch of adorable little kittens that greeted us as we arrived.
 
 ![Kittens](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042226_10207819200498180_5669654631266997660_o.jpg)
 
