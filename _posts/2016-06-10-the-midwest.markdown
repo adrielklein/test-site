@@ -69,7 +69,7 @@ As I entered the Land of Lincoln, my fatigue was starting to take over. I rememb
 
 Luckily there were some interesting experiences along the way to distract me from my soreness. One town in Illinois held a bunch of world records for "Largest ____ in the world".
 
-[Largest Pencil](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15167487_10207870717226066_6982013053179396876_o.jpg)
+![Largest Pencil](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15167487_10207870717226066_6982013053179396876_o.jpg)
 
 The theme of these oversized items was "Big Things in a Small Town" which I thought was pretty clever.
 
