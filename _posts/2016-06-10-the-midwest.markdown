@@ -67,7 +67,7 @@ The next town I rode to was Farmersburg, where I got the pleasure of staying wit
 
 As I entered the Land of Lincoln, my fatigue was starting to take over. I remember every morning I woke up my body would ache and I would wish to just go back to bed. My main goal was to make it to St. Louis, where I would spend a rest day before my next leg. I had found a Warm Showers host in St. Louis, so I just needed to get there.
 
-Luckily there were some interesting experiences along the way to distract me from my soreness. One town in Illinois held a bunch of world records for "Largest ____ in the world".
+Luckily there were some interesting experiences along the way to distract me from my soreness. One town in Illinois held a bunch of world records for largest things in the world.
 
 ![Largest Pencil](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15167487_10207870717226066_6982013053179396876_o.jpg)
 
