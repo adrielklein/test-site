@@ -5,8 +5,8 @@ date: 2016-07-31
 categories:
   - USA
 description:
-image: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
-image-sm: https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068908_10207855631808940_8419438851920922043_o.jpg
+image: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
+image-sm: https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg
 ---
 
 After taking a day off for the fourth of July in Pueblo, CO, Erika and I were ready for tackling the mountains. Just before we left town we took a quick pitstop at a bike shop to get some supplies where we met [Kevin](https://www.crazyguyonabike.com/doc/?doc_id=17523), a 56 year old high school tennis coach and teacher.
@@ -17,19 +17,23 @@ We wished Kevin good luck for the rest of his trip and embarked on our route thr
 
 ![Imgur](http://i.imgur.com/QzxHCc4.jpg)
 
-Although the road looked flat, it was going up pretty steadily. Eventually we made it to our campground before sunset and made sure to get a good night's sleep for a big day ahead.
+Although the road looked flat, it was going up pretty steadily. Eventually we made it to our campground before sunset and made sure to get a good night's sleep for a big day ahead. The next day's ride would be one of my favorites.
 
-![Canon City](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15129443_10207855631008920_774753283915495097_o.jpg)
+![Canon City](https://c1.staticflickr.com/1/697/32805643495_f19866e1a1_o.jpg)
 
-The next day's ride was one of my favorites. To continue through the Rockies we climbed up CO-9 for the first part of the day and then rode through a flat basin called South Park.
+To continue through the Rockies we climbed up CO-9 for the first part of the day and then rode through a flat basin called South Park.
 
 ![Elevation profile](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15192703_10207871303120713_196545724120002582_n.jpg?oh=418da6ce5c76a8fff1bc601bda1da308&oe=58D28ACD)
 
 Admittedly it was a big ride, but I think the beauty and excitement of being surrounded by mountains made the day fly by.
 
-![Rockies](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14556542_10207506478000313_1106565885061190935_o.jpg)
+![CO-9](https://c2.staticflickr.com/4/3731/32765326926_0dd2e3041e_b.jpg)
 
-![Facebook](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068361_10207858998853114_234562023843600506_o.jpg)
+![Rockies](https://c1.staticflickr.com/1/691/32764872506_7384501755_b.jpg)
+
+We even saw what I believe is a fox on our way up the mountain.
+
+![Fox](https://c1.staticflickr.com/1/751/32765005406_f7dd754549_b.jpg)
 
 I didn’t realize quite how remote this part of Colorado would be. In fact, we had to flag down some cars to get more water along the way. The ride also had a series of false peaks. I kept thinking I was at the top, but then realized that wasn't the case.
 
@@ -47,7 +51,7 @@ By the time we got to Fairplay we were tremendously hungry and headed over to Su
 
 That night we had planned on staying with a Warm Showers host. It’s amazing how kind and trusting people are because this man wasn’t even home but told us we could feel free to use his house and camp in his yard. Better yet, our absent host had a bunch of adorable little kittens that greeted us as we arrived.
 
-![Kittens](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042226_10207819200498180_5669654631266997660_o.jpg)
+![Kittens](https://c1.staticflickr.com/3/2147/31991786003_43ac6a8f12_b.jpg)
 
 Although it was summer, it still got a bit chilly camping at 10,000+ feet. Despite the conditions we managed to make it through the night and the next day made it over Hoosier Pass, our first of many encounters with the notorious continental divide.
 
@@ -62,13 +66,13 @@ On our way out of Breckenridge, Google Maps led us on a bike path that was truly
 
 ![Imgur](http://i.imgur.com/9UVL8vJ.jpg)
 
-![Bike path](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15137460_10207881455534517_8057666182208376858_o.jpg)
-
 After passing through Keystone, we mentally prepared to traverse our next pass. Although the climb was difficult, we were rewarded the whole way up with beautiful views. It was great when we finally reached the top!
 
-![Imgur](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p960x960/15042109_10207827434184017_965193472533369500_o.jpg)
+![bike path](https://c1.staticflickr.com/3/2161/31991836113_0786e0a7e4_b.jpg)
 
-The next 30 miles involved very little pedaling. We also enjoyed a nearly traffic free ride, as most travelers elect to take the parallel I-70 route.
+![On the way up](https://c1.staticflickr.com/1/591/32805971395_14e5b4d594_b.jpg)
+
+After conquering the mountain pass, the next 30 miles involved very little pedaling. We also enjoyed a nearly traffic free ride, as most travelers elect to take the parallel I-70 route.
 
 ![Imgur](http://i.imgur.com/cNiltpo.jpg)
 
@@ -84,9 +88,11 @@ The next day we decided to take on Mt. Evans. I had heard about Mt. Evans a coup
 
 The ride itself was a total 56 miles with 6,800ft of elevation gain. Twenty eight miles would be up and the other twenty eight back down. We started riding around sunrise so we’d be able to get the road to ourselves before traffic hit. Starting early was a good idea because we had pretty much the entire road to ourselves for most of the climb.
 
-![mt evans](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14500740_10207506857409798_4841345843085701709_o.jpg)
+![mt evans](https://c1.staticflickr.com/1/538/32652801952_bb0f381b20_b.jpg)
 
-![Goats](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14481883_10207506467240044_7776201001955381005_o.jpg)
+![top of mt evans](https://c2.staticflickr.com/4/3698/31963184504_475bd99039_b.jpg)
+
+![Mountain Goat at the summit](https://c1.staticflickr.com/1/763/32682936891_e1b277e1e9_b.jpg)
 
 Seeing the mountain goats at the top was almost like a reward for the strenuous climb. I'm always fascinated by the new animals I find out in the wild. Unfortunately we couldn't stay up at the top for too long because it was cold, but the view from up there was spectacular. Some even say that from that height you can start to see the curvature of the Earth.
 
@@ -94,7 +100,7 @@ Seeing the mountain goats at the top was almost like a reward for the strenuous 
 
 After Mount Evans we started heading north towards Wyoming and made our way over Berthoud Pass, another big climb.
 
-![Facbook](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14500757_10207506691685655_2763764062094189559_o.jpg)
+![Berthoud Pass](https://c1.staticflickr.com/3/2350/32683054911_0747293bc6_b.jpg)
 
 Our destination for the day was Tabernash. We had only planned on staying one day there, but the area was so nice that we decided to spend two. Our Warm Showers host was really nice guy who had done a bit of touring himself. He told us about all the delicious meals he prepares while he tours and almost inspired me to buy a camping stove.
 
@@ -102,11 +108,11 @@ Our host was also an avid Tour de France fan so I watched some of the races with
 
 In the morning we got to catch a fresh glimpse of the beautiful area we had the pleasure of staying at. Showcasing her sense of humor, Erika insisted that her family had come to retrieve her once after we saw the hot air balloon.
 
-![Tabernash](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14542432_10207506687525551_8919220153362848220_o.jpg)
+![Tabernash](https://c1.staticflickr.com/1/320/32425644910_8639b7f167_b.jpg)
 
-The next day we headed towards Walden Colorado. Yet again we had a mountain pass and crossed the continental divide, however this mountain pass wasn’t as high. The climb up Willow Creek Pass was very pleasant and there wasn’t too much traffic.
+The next day we headed towards Walden Colorado. Yet again we had a mountain pass and crossed the continental divide, however this mountain pass wasn’t as high. The climb up Willow Creek Pass was very pleasant and traffic was super light. This climb was gentle compare to the preview three continental divide crossings that came before it.
 
-![Facebook](https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/14559974_10207506687605553_5726420898160739675_o.jpg)
+![Willow creek pass](https://c1.staticflickr.com/1/376/32652922012_0658fa68a4_b.jpg)
 
 When we got to town, we met a supported cross country bike touring group called the Fuller Center. They invited us to the church where they were staying and we shared some stories about our trips. They were a great group of people.
 
@@ -114,19 +120,21 @@ When we got to town, we met a supported cross country bike touring group called 
 
 # Wyoming
 
-The next day we made our way into Wyoming and had some stunning scenery to ride through. One of the main differences from Wyoming and Colorado seems to be that Wyoming feels a lot more deserted.
+The next day we made our way into Wyoming and had some stunning scenery to ride through. One of the main differences I noticed upon arriving in Wyoming is that it is a lot more open and empty than Colorado.
 
-![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15110871_10207819286740336_5706661731210290779_o.jpg)
+![Wyoming](https://c1.staticflickr.com/3/2213/32429942380_16f73ba6bc_b.jpg)
 
-![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068956_10207819290740436_6597670242408497090_o.jpg)
+![Wyoming](https://c1.staticflickr.com/1/542/32429940170_e3d69a6e52_b.jpg)
 
 Also, this part of Wyoming doesn’t have as many trees so most of the time you can see for miles and miles in any direction.
 
-![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15069161_10207819292780487_8919914430768605205_o.jpg)
+![Wyoming](https://c1.staticflickr.com/3/2612/32810572385_7fe202567e_b.jpg)
 
 I noticed that the mountains in southern Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more modest and dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming that's hard to describe.
 
-![Wyoming](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025529_10207819297020593_1022000855785025195_o.jpg)
+![Wyoming](https://c1.staticflickr.com/3/2612/32810572385_7fe202567e_b.jpg)
+
+![Wyoming](https://c1.staticflickr.com/3/2306/31967798394_508de7f340_b.jpg)
 
 What’s was cool about riding through Wyoming is to realize just how high we were. Most of the time we were riding at about 7,000ft but sometimes it’s easy to forget that since we were used to it. I learned that people in Wyoming take pride in both the high elevation and sparse population. As local man I met told me, “You can’t trust a city whose population is higher than its elevation.”
 
@@ -136,7 +144,7 @@ As a former uranium mining town, Jeffrey City’s population rose to almost 5,00
 
 Despite being an absolute ghost town, Jeffrey City was the perfect place for a bike tourist seeking a unique experience. Just walking around the streets felt like traveling through the past. Also, there did happen to be a couple of shops that were still up and running. One of them happened to be a nice little pottery shop run by a friendly man.
 
-![potter](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14195351_10207819301340701_7016229623481050133_o.jpg)
+![potter](https://c2.staticflickr.com/4/3797/32687431781_d830d302dc_b.jpg)
 
 At first I thought it said "Mockingbird Pottery", but after a closer look I realized it was "Monk King Bird Pottery." I still have no idea what that means or why it was named that.
 
@@ -148,35 +156,41 @@ As for accommodation, there was a church that graciously opened up its doors for
 
 As we continued along the nothingness of Wyoming, we were continually rewarded with great scenery.
 
-![Wyoming scenery with two bikes](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068941_10207819307300850_6094352478997760079_o.jpg)
+![Wyoming scenery with two bikes](https://c1.staticflickr.com/3/2082/31967829154_5ac3f07778_b.jpg)
 
-During one of these rides, I saw my first bald eagle out in the wild.
+During one of these rides, I saw my first bald eagle out in the wild. I saw it from about 500 feet away and as I kept getting closer, the eagle kept flying away to perch further along the wooden fence.
 
-![Eagle far](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15000125_10207819305780812_7804262559713872457_o.jpg)
-
-![Eagle close](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15068963_10207819304780787_2049967579706108510_o.jpg)
+![Eagle close](https://c1.staticflickr.com/1/418/32430085670_9070656e39_b.jpg)
 
 Unfortunately I didn't have a camera scope or binoculars with me, but even seeing the great American icon from a distance was a special experience.
 
-Our next stop was one of my favorite locations of the trip. We ended up finding the most friendly, welcoming couchsurfing hosts in Lander, WY that we planned on staying with for two nights. Being so close to some beautiful riding and hiking, our rest day did not involve much resting at all. Instead we spent the day exploring the area outside of the city.
+Our next stop was one of my favorite locations of the trip. We ended up finding the most friendly, welcoming couchsurfing hosts in Lander, WY that we planned on staying with for two nights. Being so close to some beautiful riding and hiking, our rest day did not involve much resting at all. Instead we spent the day exploring the mountains right outside of the city. In the morning a went riding on one of my favorite climbs of all time.
 
-![Lander WY climb](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15110453_10207819310580932_8413188703340654091_o.jpg)
+![Lander WY climb](https://c1.staticflickr.com/3/2426/32810744615_f9b8b05b93_b.jpg)
 
-![Erika hiking](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15039474_10207819809033393_8950328584583870327_o.jpg)
+![Lander WY climb](https://c1.staticflickr.com/3/2872/32810749505_d4389c2ab0_b.jpg)
+
+![Lander WY](https://c1.staticflickr.com/3/2391/32810764735_853f4da3be_b.jpg)
+
+![Lander, WY](https://c1.staticflickr.com/1/741/32770071726_2824067f1d_b.jpg)
+
+In the afternoon, our hosts were kind enough to lend us their car so we could go on a beautiful hike. I was amazed by their trust and generosity.
+
+![Erika hiking](https://c1.staticflickr.com/1/628/32770078616_07e49c5bb7_b.jpg)
 
 As if we hadn't already been spoiled enough with the natural beauty of WY, our route was about to lead us through two National Parks: Grand Teton and Yellowstone.
 
 Grand Teton NP came first and we found a great campground just next to Jackson Lake.
 
-![Jackson lake](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025225_10207819819833663_1976891377703458165_o.jpg)
+![Jackson lake](https://c1.staticflickr.com/1/358/32687616441_02296478eb_b.jpg)
 
 Some of the riding around this area exposed me to some great views of the Tetons. Formed roughly 6 to 9 million years ago, these mountains are the youngest in the Rockies and their jagged peaks reflect it.
 
-![Tetons](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025619_10207819823233748_3457954152002252775_o.jpg)
+![Tetons](https://c1.staticflickr.com/3/2109/31968012264_9826459059_b.jpg)
 
 The area is also abundant in wildlife including big game animals like the moose.
 
-![Moose](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14991113_10207819314301025_4987253773706500233_o.jpg)
+![Moose](https://c1.staticflickr.com/1/628/32810822305_fcaf8b4a88_b.jpg)
 
 
 As we headed through Yellowstone, we passed by the famous Old Faithful Geyser and ended up staying in the heart of the park with [Clay](http://www.clayshow.org/), a park ranger we found on Warm Showers. In addition to being a park ranger, he is a traveling circus on bicycle and a skilled photographer. I managed to find a great photo of his bike on his website.
@@ -187,7 +201,7 @@ Being a park ranger, Clay was a great person talk to about the park. He offered 
 
 As we were setting up our tents in his yard, we spotted some elk walking around nearby.
 
-![Elk](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15039729_10207819317661109_6575400394511207617_o.jpg)
+![Elk](https://c1.staticflickr.com/3/2591/32657672642_a4b4621f26_b.jpg)
 
 Although both are a type of deer, the elk is quite different than the typical deer I am familiar with back east, the white-tailed deer (also called a whitetail). The greatest different is size. While a whitetail buck can weigh up to 300lbs, a male elk (called a bull) typically weighs more than double that.
 
@@ -195,11 +209,11 @@ One host I stayed at was very passionate about elk hunting. He told me about elk
 
 In addition to the man's excitement about elk, I could tell the animal was a special part of Wyoming by some of the amazing displays of antlers.
 
-![Antlers](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/p720x720/15025098_10207840932121457_1925618590242597639_o.jpg)
+![Antlers](https://c2.staticflickr.com/4/3836/32770239796_0334cc6dfa_b.jpg)
 
 As impressive as the arch was, I couldn't help but think to myself, "Man, they must have had to kill a bunch of elk to make that. How cruel!"
 
-It was only until later when I learned that the bull sheds and regrows his antlers each year. So rather than killing the elk, these artistic pieces of bone are typically [collected by boy scouts](http://www.roadsideamerica.com/story/11685) at the national elk refuge after the winter shed.
+It was only until later when I learned that the bull sheds and regrows his antlers each year. So rather than killing the elk, these pieces of bone are typically [collected by boy scouts](http://www.roadsideamerica.com/story/11685) at the national elk refuge after the winter shed.
 
 Apparently the species is plentiful on both public and private lands so endangerment is not a concern. As a matter of fact, there are estimated to be about a million elk living in the US and strict hunting regulations ensure their abundance. Although I lack both the expertise and equipment to hunt the great beast, I hope to some day photograph a bull in the wild. Some others species on my list to photograph are wild horses, pronghorns, and mountain lions. I've been told that mountain lions will be especially hard to find since they are stealthy hunters by nature. As one man told me, "You've probably never seen a mountain lion, but there's a good chance they've seen you."
 
@@ -209,11 +223,9 @@ Apparently the species is plentiful on both public and private lands so endanger
 
 Leaving Wyoming was bittersweet. On the one hand we were leaving an incredibly beautiful state, but on the other hand we were about to enter another state with a similar reputation.
 
-![Montana state sign](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-0/p600x600/15069010_10207832645874306_3120064244606464471_o.jpg)
-
 The next interesting geological place that we stumbled upon was Quake Lake.
 
-![Quake lake](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/q82/p960x960/15110367_10207827561947211_8977523391749054029_o.jpg)
+![Quake lake](https://c1.staticflickr.com/1/405/32430483650_9582bcc2e9_b.jpg)
 
 As evident by the photo, there are dead trees rising up from the lake. The question is: Why were the trees were growing from the bottom of a lake to begin with?
 
@@ -221,11 +233,15 @@ As it turns out, these trees didn't initially start growing from the lake, but g
 
 The mud, rocks, and debris from the landslide dammed the river, resulting in the birth of a new lake called Quake (or Earthquake) Lake. Something tells me the geological anomaly reveals only a hint of just how powerful this geothermal region really is.
 
-It's hard to tell exactly the difference from Montana and Wyoming, but Montana seems to be a bit more green.
+It's hard to tell exactly the difference transitioning from Wyoming to Montana, but Montana seems to be a bit more green.
 
-![Montana](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025224_10207833632018959_5225051159249377292_o.jpg)
+![Montana](https://c1.staticflickr.com/1/369/31996834793_fb2ffebca9_b.jpg)
 
-![Montana](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042197_10207833635339042_3630327503833182793_o.jpg)
+![Montana](https://c1.staticflickr.com/3/2585/31996851483_86ebf93709_b.jpg)
+
+![Montana](https://c2.staticflickr.com/4/3680/32770433306_49187909c7_b.jpg)
+
+![Montana](https://c2.staticflickr.com/4/3863/32687905751_99678c263f_b.jpg)
 
 In general we either stayed in campgrounds or public parks in Montana, however in Ennis, MT there was a distillery that allowed cyclists to camp in their back yard for free. We decided to take up the free offer and met about five other cyclists that were staying there also.
 
@@ -237,8 +253,10 @@ I took off the safety, pointed the canister towards the ground, and pressed down
 
 After about ten minutes of discomfort, we were all fine and I apologized profusely. I learned exactly how **not** to give a bear spray demonstration.
 
-Our journey continued to Missoula where we were planning on taking a day off. Shortly after arriving to Missoula, we got word that Erika's grandmother's friend's cousin and her husband lived in town and had offered to host us. They were the kindest elderly couple and had some great stories to share about their adventures and hobbies. I thought their collection of animal skulls was really cool.
+Our journey continued to Missoula where we were planning on taking a day off. Shortly after arriving to Missoula, we got word that Erika's grandmother's friend's cousin and her husband lived in town and had offered to host us. They were the kindest elderly couple and had some great stories to share about their adventures and hobbies. We decided to spend an extra day in Missoula and went on a little hike with a spectacular view of the city.
 
-![Animal skulls](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-0/p526x296/15003274_10207833640219164_8555496168346064163_o.jpg)
+![Missoula](https://c1.staticflickr.com/1/300/32770487866_f6d915f0ef_b.jpg)
 
-Our final stretch of the trip was about to begin. We would cross over the continental divide one last time at Lolo Pass in Idaho and make our way down to the ocean.
+They told us some great stories and cooked us up a delicious moose steak for dinner.
+
+Our final stretch of the trip was about to begin. We would cross over the continental divide one last time at Lolo Pass in Idaho and make our way down to the Pacific.
