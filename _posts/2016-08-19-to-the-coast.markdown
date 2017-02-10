@@ -5,19 +5,25 @@ date: 2016-08-19
 categories:
   - USA
 description:
-image: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
-image-sm: https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg
+image: https://c1.staticflickr.com/3/2938/31998387743_aac7756cd5_b.jpg
+image-sm: https://c1.staticflickr.com/3/2938/31998387743_aac7756cd5_b.jpg
 ---
 
 As we continued into Idaho, we were continually pleased of the stunning scenery this country has to offer. For hundreds of miles, we following winding roads next to rivers that seems to have carved pathways through the mountains.
 
-![Lochsa River](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15128880_10207834583602748_4712693267381615734_o.jpg)
+![Lochsa River](https://c1.staticflickr.com/3/2409/32812562675_850e2203b8_b.jpg)
 
-![Salmon River](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15138572_10207833648219364_1037633154376956312_o.jpg)
+![Salmon River](https://c1.staticflickr.com/1/285/31969743724_9a8bd5f271_b.jpg)
 
 On one hot day when we were taking a midday break in White Bird, Idaho, we struck up a conversation with a man who invited us to stay in his home. We were still about 20 miles from his home but it was in our direction. Intrigued by free accommodation and the company of some friendly locals, we rode over to his town, picked up some groceries, and headed over to the house.
 
 His wife and family were very welcoming and kind. It turns out their family had moved around a bit and the father was employed with a river rafting company.
+
+Our last destination in Idaho was a small town called Cambridge. We ended up arriving around sunset and a man in a grocery store offered to host us. Having no other option but to camp in the park, we were thrilled to have found a host and took the man's offer. We ended up staying two nights in his place because he was great company and we even got the chance to see a Rodeo. It was unlike any other event I have ever attended.
+
+Also we saw a bat while walking down the street. I'm not sure if it was a baby or an adult.
+
+![Bat](https://c2.staticflickr.com/4/3951/31969752144_9c4275dfc0_b.jpg)
 
 ---
 
@@ -29,17 +35,17 @@ Our first night in Oregon we spent camping at a Lions Club park in a small town 
 
 Sure enough, about ten minutes later the man came back with two delicious duck egg omelettes mixed with fresh vegetables from his garden and a side of fruit. Apparently the man was a former chef, and the quality of his food reflected it. The man's generosity was a great start to our first full day in Oregon.
 
-I can't say that I saw an immediate change in landscape from Idaho to Oregon, but as we progressed a couple hundred miles westward, things definitely started changing.
+I can't say that I saw an immediate change in landscape from Idaho to Oregon, but as we progressed a couple hundred miles westward, scenery definitely started changing.
 
-![Oregon](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15123220_10207835083975257_3801626442109586467_o.jpg)
+![Oregon](https://c2.staticflickr.com/4/3769/32689332001_840ce6024c_b.jpg)
 
-![Painted Hills](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15123239_10207835094535521_5525775440695588930_o.jpg)
+![Oregon](https://c1.staticflickr.com/3/2359/32659267942_58852b8770_b.jpg)
+
+![Oregon](https://c1.staticflickr.com/3/2728/32659289222_9576c28577_b.jpg)
 
 The landscape started looking like a Dr. Seuss book with lots of lumps and great colors.
 
 One of the cool parts about bike touring in Oregon is that it is the only state in the country with official scenic bikeways. As a result of the popular cycling culture, we were delighted to find bike-centric hosts like [The Spoke'n Hostel](http://spokenhostel.org/) along the way. This place used to be a church but was converted to a hostel specifically for cyclists.
-
-![Hostel](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/14542530_10207506861769907_3390872111722879363_o.jpg)
 
 It was not only nice to have a bed and showers, but it was fun to meet other cyclists and share some stories about our trips. The hostel also had a giant world map where each guest can put a pin of where they are from. Portland was by far the most popular location, but there were pins all around the world, especially the Netherlands. Although there were pins on Boston, I think I was the first to pin down Sharon, MA.
 
@@ -49,21 +55,17 @@ I knew that there was a state park nearby, but from what I had gathered, the par
 
 We packed up our bags and headed towards the park, making it there just before sunset.
 
-![sunset](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025304_10207835222378717_5879737535330524829_o.jpg)
-
 I had never been to a campground like this but I really liked it. Instead of every vehicle having its own camping spot, it was a free-for-all style sleeping area where campers could choose to set up their tents in whatever spot they like.
 
 The next morning we realized what a beautiful place we had stumbled upon, and decided to spend the day there hiking.
 
-![smith rock state park](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042223_10207835153016983_194346581908128188_o.jpg)
+![smith rock state park](https://c1.staticflickr.com/3/2936/32659294912_9012229ea2_b.jpg)
 
-![smith rock state park](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025350_10207835153857004_1149142254855450841_o.jpg)
+![smith rock state park](https://c1.staticflickr.com/1/695/31969823504_7c1a014abd_b.jpg)
 
-Our route then took us through a volcanic area called Mckenzie pass, and shortly thereafter we crossed paths with the notorious Pacific Crest Trail.
+![Lizard](https://c1.staticflickr.com/3/2614/31969806764_00febefde4_b.jpg)
 
-![PCT](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15042274_10207835157537096_2095538345576042736_o.jpg)
-
-I convinced Erika that we had to walk down the trail for at least a few minutes, allowing us to say we section hiked the trail. It was a short section, but a section nonetheless.
+Our route then took us through a volcanic area called Mckenzie pass, and shortly thereafter we crossed paths with the notorious Pacific Crest Trail. I convinced Erika that we had to walk down the trail for at least a few minutes, allowing us to say we section hiked the trail. It was a short section, but a section nonetheless.
 
 A couple days later, we hit the coast. Although the day was highly overcast we still enjoyed our ride and it was exciting to reach the ocean, a huge milestone in any cross-country bike ride.
 
