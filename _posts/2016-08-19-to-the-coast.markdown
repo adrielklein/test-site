@@ -76,12 +76,8 @@ So we decided to bite the bullet. I looked up the nearest hotel and got ready gi
 
 Although the Oregon coast was crowded the coastal scenery was fantastic. The combination of mountains and beaches make it extra special, something foreign to me as an east coast native.
 
-![Coast](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15025385_10207835188697875_6444733270064084216_o.jpg)
+![Bike at coast](https://c1.staticflickr.com/1/671/32689406531_f86d6a9941_b.jpg)
 
-After a few days on the coast, we made it to the final destination, Astoria, Oregon.
-
-![Astoria](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15138402_10207835193217988_3799942460373836210_o.jpg)
-
-Astoria is significant because it's where Lewis and Clark hit the Pacific Ocean on their expediation in the early 1800's. Coincidentally, the start of their journey was St. Charles, MO, a city that Erika and I rode through. Does that mean we are as brave and courageous as the original American explorers? Well, one might argue it was more difficult for them to do it having to hunt for their food and traverse over mountains without roads. However, we completed the journey in a significantly shorter time than they did. It took them almost a year and a half to do it and we completed in a couple of months so I'd say we're about equal!
+After a few days on the coast, we made it to the final destination, Astoria, Oregon, the place where Lewis and Clark hit the Pacific Ocean on their expedition in the early 1800's. Coincidentally, the start of their journey was St. Charles, MO, a the same city where Erika joined me. Does that mean we are as brave and courageous as the original American explorers? Well, one might argue it was more difficult for them to do it having to hunt for their food and traverse over mountains without roads. However, we completed the journey a lot faster they did. It took them almost a year and a half to do it and we completed in a couple of months so I'd say we're about equal!
 
 ![Map](https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/15085740_10207855604808265_6490816267074992835_n.jpg?oh=a72f6e2c51d57c2dae30e9f7ed227f7b&oe=58CC24D1)
