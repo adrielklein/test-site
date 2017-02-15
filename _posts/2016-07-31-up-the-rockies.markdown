@@ -132,7 +132,7 @@ Also, this part of Wyoming doesn’t have as many trees so most of the time you 
 
 I noticed that the mountains in southern Wyoming aren’t as grand and tall as they are in Colorado, but rather they are more modest and dispersed. I can't say I prefer one over the other, but there was something special about the landscape of Wyoming that's hard to describe.
 
-![Wyoming](https://c1.staticflickr.com/3/2612/32810572385_7fe202567e_b.jpg)
+![Wyoming](https://c1.staticflickr.com/1/320/32657305642_101e05464f_b.jpg)
 
 ![Wyoming](https://c1.staticflickr.com/3/2306/31967798394_508de7f340_b.jpg)
 
