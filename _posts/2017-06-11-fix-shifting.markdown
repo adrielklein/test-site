@@ -21,7 +21,7 @@ I've had this problem in the past and have also seen it happen to friends. It's 
 
 ## Required Tools/Parts
 1. Shift Cable (~$5)
-1. Shift Cable Housing (Skinny black tube thing that wire goes through) (~$5)
+1. Shift Cable Housing (Skinny black tube thing that cable goes through) (~$5)
 1. [Wire Cutters](https://www.amazon.com/Park-Tool-Professional-Housing-Cutter/dp/B0047VQEGM) (~$35)
 1. Allen Wrench (~$10)
 1. Housing Caps (<$1)
@@ -41,11 +41,11 @@ At this point you should be able to slide the cable out and remove all the housi
 
 ## Step #2: Put in New Cable and Housing
 
-Slide your cable wire into your shifter. You may need to remove the tension from your rear brake to make this task easier.
+Slide your cable into your shifter. You may need to remove the tension from your rear brake to make this task easier.
 
 <img src="{{ base.url }}/adventures/assets/images/wire-shifter.jpg" width="100%">
 
-Pull the wire all the way through until you can't pull any further.
+Pull the cable all the way through until you can't pull any further.
 
 <img src="{{ base.url }}/adventures/assets/images/pull-wire.jpg" width="100%">
 
@@ -53,11 +53,11 @@ Next, you need to cut your new housing so that its length matches the old one.
 
 <img src="{{ base.url }}/adventures/assets/images/match-length.jpg" width="100%">
 
-Put on a housing caps to both ends of the housing.
+Put on housing caps to both ends of the cable housing.
 
 <img src="{{ base.url }}/adventures/assets/images/housing-caps.jpg" width="100%">
 
-Slide your housing onto the wire and place the end of it into the housing stop.
+Slide your housing onto the cable and place the end of it into the housing stop.
 
 <img src="{{ base.url }}/adventures/assets/images/housing-stop.jpg" width="100%">
 
@@ -85,14 +85,14 @@ Make sure shifting is happening smoothly and keep adjusting until you get it rig
 
 ## Step #4: Finish Up
 
-Cut the end of the wire. You don't want it to be too long, but not too short either.
+Cut the end of the cable. You don't want it to be too long, but not too short either.
 
 <img src="{{ base.url }}/adventures/assets/images/cut-end.jpg" width="100%">
 
 Find your cable cap. It should look like this.
 <img src="{{ base.url }}/adventures/assets/images/crimp.jpg" width="100%">
 
-Put on your cable cap and squash it with the flat part of the wire cutters.
+Put on your cable cap and squash it with the flat part of the cable cutters.
 <img src="{{ base.url }}/adventures/assets/images/squash-crimp.jpg" width="100%">
 
 <img src="{{ base.url }}/adventures/assets/images/final-product.jpg" width="100%">
