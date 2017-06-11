@@ -8,7 +8,8 @@ google_analytics: UA-87916588-1
 # SEO settings
 title: Adriel's Cycling Blog
 description: A glimpse of life on the road
-url: "http://www.bikingwithadriel.com"
+url: "http://www.adrielklein.github.io/adventures"
+baseurl:
 twitter_username:
 default_img: https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15042109_10207827434184017_965193472533369500_o.jpg
 
