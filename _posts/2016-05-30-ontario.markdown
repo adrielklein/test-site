@@ -15,9 +15,10 @@ Similar to most border crossings or customs in an airport, the border services o
 
 I took a couple days off in Niagara Falls to get a chance to see where the higher Lake Erie flows into Lake Ontario. Some of the views were amazing and since it was still the beginning of the season, the crowds weren't so bad.
 
-![Niagara Falls](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15069054_10207863379722633_850026828516055004_o.jpg)
+<img src="{{ base.url }}/adventures/assets/images/niagarra.jpg" width="100%">
+<img src="{{ base.url }}/adventures/assets/images/niagarra2.jpg" width="100%">
+<img src="{{ base.url }}/adventures/assets/images/niagarra3.jpg" width="100%">
 
-![Niagara Falls](https://scontent.fsnc1-2.fna.fbcdn.net/t31.0-8/15123112_10207855781292677_541181175079759554_o.jpg)
 
 Since I was so close to the great city of Toronto, I decided to make a detour over there.
 
